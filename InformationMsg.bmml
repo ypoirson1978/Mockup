@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" measuredW="510" measuredH="193" mockupW="450" mockupH="173">
+  <controls>
+    <control controlID="4" controlTypeID="__group__" x="60" y="20" w="450" h="173" measuredW="450" measuredH="173" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>InformationMsg</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="450" h="173" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="4">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <text>%3CMsg%20box%20title%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="43" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="1" locked="false" isInGroup="4">
+          <controlProperties>
+            <icon>Info2Icon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="78" y="43" w="346" h="72" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="4">
+          <controlProperties>
+            <text>Explanation%20of%20why%20the%20message%20is%20here%0A%20%0AInformation%20on%20what%20to%20do%20next</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="374" y="130" w="65" h="28" measuredW="56" measuredH="28" zOrder="3" locked="false" isInGroup="4">
+          <controlProperties>
+            <text>Close</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
